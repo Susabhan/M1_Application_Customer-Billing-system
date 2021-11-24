@@ -95,6 +95,5 @@ LOW LEVEL PRQUIREMENTS:-
 
 |ID|Description|Status|
 |--|------|-------|
-|LLR_1|Collects the record from the customers for purchased product and provides the invoice bill.|
-|LLR_2|Display all the customer and products details.|
-|LLR_3|Display all the products that are ordered.|
+|LLR_1|Collects the record from the players User id and password for play this game|
+|LLR_2|Run the pograme and enter ur user id and password.|
